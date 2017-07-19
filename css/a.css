@@ -1,0 +1,35 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+header{
+	height:100px;
+	width:800px;
+	background-color:red;
+}
+nav{
+	height:20px;
+	width:800px;
+	border:solid black 1px;
+}
+nav ul{
+	
+	inline:none;
+}
+aside{
+	float:left;
+	height:700px;
+	width:200px;
+	border:solid 1px;
+}
+section{
+	float:left;
+	height:700px;
+	width:600px;
+	border:solid 1px;
+}
+footer{
+	height:40px;
+	width:800px;
+	border:solid 1px red;
+}
