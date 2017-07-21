@@ -1,1 +1,15 @@
-*
+*{
+	margin:0px;
+	padding:0px;
+}
+header{
+	border:solid;
+	width:1000px;
+	height:200px;
+}
+nav{
+	border:solid;
+	width:1000px;
+	height:50px;
+}
+
